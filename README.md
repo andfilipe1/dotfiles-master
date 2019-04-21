@@ -1,4 +1,4 @@
-# @vinicius73/dotfiles - For archlinux
+# @andfilipe1/dotfiles - For archlinux
 
 # Install
 > need [yaourt](https://www.ostechnix.com/install-yaourt-arch-linux/) instaled
